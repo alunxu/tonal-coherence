@@ -1,0 +1,11 @@
+# Core dependencies
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+matplotlib>=3.4
+seaborn>=0.11
+tqdm>=4.62
+
+# Data extraction (optional — only needed for step 1)
+partitura>=1.0       # classical corpus (DLC) extraction
+pretty_midi>=0.2     # pop MIDI (LMD) extraction

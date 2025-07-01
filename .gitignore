@@ -1,0 +1,30 @@
+# Data (large, not redistributable)
+/data/
+/results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+*.DS_Store
+
+# IDE
+/.vscode/
+
+# Environment
+/harmonic_env/
+
+# Legacy/scratch
+/graveyard/
+/paper/
+temp_*.json
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
